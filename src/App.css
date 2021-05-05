@@ -1,0 +1,22 @@
+.App {
+  height: 100vh;
+  width: 100vw;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #212121;
+}
+
+.btn-large {
+  height: 10rem;
+  width: 25rem;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  font-size: 3rem;
+  font-weight: 700;
+}
