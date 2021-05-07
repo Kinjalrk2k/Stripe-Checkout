@@ -6,10 +6,11 @@
   justify-content: center;
   align-items: center;
 
-  background-color: #212121;
+  color: #212121;
+  background-color: #f0f0f0;
 }
 
-.btn-large {
+/* .btn-large {
   height: 10rem;
   width: 25rem;
 
@@ -19,4 +20,8 @@
 
   font-size: 3rem;
   font-weight: 700;
+} */
+
+.CardField {
+  font-size: xx-large !important;
 }
